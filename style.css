@@ -1,0 +1,49 @@
+body{
+    font-family: 'Anton', sans-serif;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 60px;
+}
+p{
+    color: rgb(165, 110, 236);
+}
+.name-highlight{
+    color: rgb(236, 96, 96);
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(240, 159, 128),rgb(247, 85, 56));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: rgb(35, 36, 34);
+    font-weight: 700;
+}
+
+.team{
+    display: inline-flex;
+    justify-content: center;
+}
+.blog {
+    border:mediumpurple 1px,solid
+    float: left;
+    border-radius: 20px;
+    margin: 1%;
+    width: 30%;
+    display: inline-block;
+}
+    footer p{
+        text-align: center;
+
+    }
